@@ -1,8 +1,8 @@
+
 # VYRO — Environmental Clearance Application Reviewer
 
 VYRO is an automated AI assistant and compliance auditing system for Environmental Clearance (EC) applications, EIA reports, and EMP documents.
 
----
 
 ## Features
 - **Multi-Agent Review Pipeline**: Autonomous Planner, Completeness Specialist, Consistency Specialist, Contradiction Specialist, and Verifier Agent.
@@ -50,3 +50,7 @@ Set your environment variables in `.env`:
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 *(If no API key is configured, VYRO seamlessly operates in deterministic offline demo mode.)*
+=======
+# VYRO-Environmental-Clearance
+AI-powered Environmental Clearance application review and compliance assistant.
+>>>>>>> origin/main
